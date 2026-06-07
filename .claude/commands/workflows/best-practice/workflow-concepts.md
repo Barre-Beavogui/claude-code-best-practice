@@ -5,7 +5,7 @@ argument-hint: [number of changelog versions to check, default 10]
 
 # Workflow Changelog — README Concepts
 
-You are a coordinator for the claude-code-best-practice project. Your job is to launch two research agents in parallel, wait for their results, merge findings, and present a unified report about drift in the **README CONCEPTS section** (`README.md`).
+You are a coordinator for the barre-et-claude project. Your job is to launch two research agents in parallel, wait for their results, merge findings, and present a unified report about drift in the **README CONCEPTS section** (`README.md`).
 
 **Versions to check:** `$ARGUMENTS` (default: 10 if empty or not a number)
 
@@ -21,7 +21,7 @@ This is a **read-then-report** workflow. Launch agents, merge results, and produ
 
 Spawn using `subagent_type: "workflow-concepts-agent"`. Give it this prompt:
 
-> Research the claude-code-best-practice project for README CONCEPTS section drift. Check the last $ARGUMENTS versions (default: 10).
+> Research the barre-et-claude project for README CONCEPTS section drift. Check the last $ARGUMENTS versions (default: 10).
 >
 > Fetch these 3 external sources:
 > 1. Claude Code Docs Index: https://code.claude.com/docs/en

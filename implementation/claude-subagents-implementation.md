@@ -83,7 +83,7 @@ or ask Claude to create one for you — it will generate the markdown file with 
 
 ---
 
-<a href="https://github.com/Barre-Beavogui/claude-code-best-practice#orchestration-workflow"><img src="../!/tags/orchestration-workflow-hd.svg" alt="Orchestration Workflow"></a>
+<a href="https://github.com/Barre-Beavogui/barre-et-claude#orchestration-workflow"><img src="../!/tags/orchestration-workflow-hd.svg" alt="Orchestration Workflow"></a>
 
 The weather agent is the **Agent** in the Command → Agent → Skill orchestration pattern. It receives the workflow from the `/weather-orchestrator` command and fetches temperature using its preloaded skill (`weather-fetcher`). The command then invokes the standalone `weather-svg-creator` skill to create the visual output.
 

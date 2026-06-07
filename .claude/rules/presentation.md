@@ -13,7 +13,7 @@ Any request to update, modify, or fix a presentation MUST be handled by the matc
 |---|---|---|
 | Vibe Coding → Agentic Engineering | `presentation/vibe-coding-to-agentic-engineering/index.html` | `presentation-vibe-coding` |
 | Claude Code & Gemini CLI (GDG Kolachi event deck) | `presentation/2026-04-25-gdg-kolachi-cli-claude-code-gemini/index.html` | `presentation-claude-gemini` |
-| Claude Code Best Practice (canonical reusable deck) | `presentation/claude-code-best-practice/index.html` | `presentation-claude-code` |
+| Claude Code Best Practice (canonical reusable deck) | `presentation/barre-et-claude/index.html` | `presentation-claude-code` |
 
 Invoke via the Agent tool:
 

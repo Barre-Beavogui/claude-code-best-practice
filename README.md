@@ -1,9 +1,9 @@
-# claude-code-best-practice
+# barre-et-claude
 Maintained by **Barre Beavogui**
 
 from vibe coding to agentic engineering - practice makes claude perfect
 
-![updated with Claude Code](https://img.shields.io/badge/updated_with_Claude_Code-v2.1.168%20(Jun%2007%2C%202026%209%3A39%20AM%20PKT)-white?style=flat&labelColor=555) <a href="https://github.com/Barre-Beavogui/claude-code-best-practice/stargazers"><img src="https://img.shields.io/github/stars/Barre-Beavogui/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars"></a><br>
+![updated with Claude Code](https://img.shields.io/badge/updated_with_Claude_Code-v2.1.168%20(Jun%2007%2C%202026%209%3A39%20AM%20PKT)-white?style=flat&labelColor=555) <a href="https://github.com/Barre-Beavogui/barre-et-claude/stargazers"><img src="https://img.shields.io/github/stars/Barre-Beavogui/barre-et-claude?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars"></a><br>
 
 [![Best Practice](!/tags/best-practice.svg)](best-practice/) [![Implemented](!/tags/implemented.svg)](implementation/) [![Orchestration Workflow](!/tags/orchestration-workflow.svg)](orchestration-workflow/orchestration-workflow.md) [![Claude](!/tags/claude.svg)](https://code.claude.com/docs) [![Boris](!/tags/boris-cherny.svg)](#-tips-and-tricks) [![Community](!/tags/community.svg)](#-subscribe) ![Click on these badges below to see the actual sources](!/tags/click-badges.svg)<br>
 <img src="!/tags/a.svg" height="14"> = Agents · <img src="!/tags/c.svg" height="14"> = Commands · <img src="!/tags/s.svg" height="14"> = Skills
@@ -511,7 +511,7 @@ Get the maximum out of this repo by following these steps:
 
 **📊 Presentations**
 
-<a href="https://github.com/Barre-Beavogui/claude-code-best-practice/tree/main/presentation/2026-04-25-gdg-kolachi-cli-claude-code-gemini"><img src="!/thumbnail/presentation-1.png" alt="Claude Code & Gemini CLI — GDG Kolachi" width="240"></a>
+<a href="https://github.com/Barre-Beavogui/barre-et-claude/tree/main/presentation/2026-04-25-gdg-kolachi-cli-claude-code-gemini"><img src="!/thumbnail/presentation-1.png" alt="Claude Code & Gemini CLI — GDG Kolachi" width="240"></a>
 
 <p align="center">
   <img src="!/claude-jumping.svg" alt="section divider" width="60" height="50">
@@ -524,9 +524,9 @@ Get the maximum out of this repo by following these steps:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Barre-Beavogui/claude-code-best-practice&type=Date&v=2)](https://star-history.com/#Barre-Beavogui/claude-code-best-practice&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Barre-Beavogui/barre-et-claude&type=Date&v=2)](https://star-history.com/#Barre-Beavogui/barre-et-claude&Date)
 
-<a href="https://github.com/Barre-Beavogui/claude-code-best-practice/stargazers"><img src="https://img.shields.io/github/stars/Barre-Beavogui/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars" align="center"></a> stars and counting
+<a href="https://github.com/Barre-Beavogui/barre-et-claude/stargazers"><img src="https://img.shields.io/github/stars/Barre-Beavogui/barre-et-claude?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars" align="center"></a> stars and counting
 
 ## Other Repos
 

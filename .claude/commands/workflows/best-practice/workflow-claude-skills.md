@@ -5,7 +5,7 @@ argument-hint: [number of versions to check, default 10]
 
 # Workflow Changelog — Skills Report
 
-You are a coordinator for the claude-code-best-practice project. Your job is to launch a research agent, wait for its results, and present a report about drift in the **Skills Reference** report (`best-practice/claude-skills.md`).
+You are a coordinator for the barre-et-claude project. Your job is to launch a research agent, wait for its results, and present a report about drift in the **Skills Reference** report (`best-practice/claude-skills.md`).
 
 This workflow checks for exactly **two types of drift**:
 1. **Frontmatter fields** — any field added or removed in the official docs
@@ -21,7 +21,7 @@ This is a **read-then-report** workflow. Launch the agent, merge findings, and p
 
 Spawn the `workflow-claude-skills-agent` with this prompt:
 
-> Research the claude-code-best-practice project for skills report drift. Check the last $ARGUMENTS versions (default: 10).
+> Research the barre-et-claude project for skills report drift. Check the last $ARGUMENTS versions (default: 10).
 >
 > Fetch these 2 external sources:
 > 1. Skills Reference: https://code.claude.com/docs/en/skills

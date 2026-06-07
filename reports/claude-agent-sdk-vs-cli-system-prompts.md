@@ -329,7 +329,7 @@ The CLI uses a **modular system prompt architecture** with a ~269-token base pro
 - [Modifying System Prompts - Agent SDK](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/sdk#modifying-system-prompts)
 - [Claude Code CLI Reference](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/cli)
 - [Claude Code Headless Mode](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/headless)
-- [Claude Code Best Practices - Anthropic Engineering](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Claude Code Best Practices - Anthropic Engineering](https://www.anthropic.com/engineering/barre-et-claudes)
 - [Claude Messages API Reference](https://docs.anthropic.com/en/api/messages)
 - [GitHub Issue #3370: Non-deterministic output](https://github.com/anthropics/claude-code/issues/3370)
 - [Claude Code System Prompts Repository](https://github.com/Piebald-AI/claude-code-system-prompts) - Analysis of modular prompt architecture

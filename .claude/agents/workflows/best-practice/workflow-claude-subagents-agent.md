@@ -19,7 +19,7 @@ allowedTools:
 
 # Workflow Changelog — Subagents Research Agent
 
-You are a documentation drift detector for the claude-code-best-practice project. Your job is to fetch external sources, read the local report, and check for exactly **two types of drift**:
+You are a documentation drift detector for the barre-et-claude project. Your job is to fetch external sources, read the local report, and check for exactly **two types of drift**:
 
 1. **Frontmatter fields** — any field added or removed
 2. **Official sub-agents** — any built-in agent added or removed
