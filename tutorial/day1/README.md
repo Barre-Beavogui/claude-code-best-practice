@@ -83,12 +83,12 @@ A **skill** is a specific capability that an agent (or Claude itself) can use.
 
 Now think about a real person:
 
-> **Shayan** has many skills:
+> **Barre** has many skills:
 > - Engineering skill — can write code
 > - Gaming skill — knows game mechanics
 > - Reading skill — can digest and summarize long documents
 >
-> Each skill has its own knowledge and methods. Shayan uses the right skill for the right task.
+> Each skill has its own knowledge and methods. Barre uses the right skill for the right task.
 
 Claude works the same way. The `weather-agent` has a skill called `weather-fetcher`:
 

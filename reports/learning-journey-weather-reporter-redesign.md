@@ -101,7 +101,7 @@ Slides 1 (title), 2 (Boris GIF), 3 (Vibe→Agentic), 4 (What is Vibe Coding), 5 
 
 **Slide 14** — "The Training Manual" (current slide 25)
 - Reframe: the weather reporter has two skills: weather-fetcher (go get the temperature) and weather-svg-creator (create the visual card).
-- Replace "Shayan" example with the weather reporter's two skills.
+- Replace "Barre" example with the weather reporter's two skills.
 
 **Slide 15** — "When to Turn Something Into a Skill" (current slide 26)
 - Keep Boris tip. Add weather-fetcher and weather-svg-creator as two of the examples.

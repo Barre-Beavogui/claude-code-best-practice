@@ -60,7 +60,7 @@ Rules that verify permission configuration accuracy.
 
 ## 4. Hooks (REDIRECTED)
 
-Hook analysis is excluded from this workflow. Hooks are maintained in the [claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) repo. Only verify the redirect link is still valid.
+Hook analysis is excluded from this workflow. Hooks are maintained in the [claude-code-hooks](https://github.com/Barre-Beavogui/claude-code-hooks) repo. Only verify the redirect link is still valid.
 
 | # | Category | Check | Depth | Compare Against | Added | Origin |
 |---|----------|-------|-------|-----------------|-------|--------|

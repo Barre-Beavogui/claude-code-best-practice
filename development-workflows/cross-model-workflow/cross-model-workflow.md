@@ -1,6 +1,6 @@
 # Cross-Model (Claude Code + Codex) Workflow
 
-based on [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) and [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice)
+based on [claude-code-best-practice](https://github.com/Barre-Beavogui/claude-code-best-practice) and [codex-cli-best-practice](https://github.com/Barre-Beavogui/codex-cli-best-practice)
 
 ## Workflow
 

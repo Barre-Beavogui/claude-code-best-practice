@@ -80,7 +80,7 @@ Verify the Tool Permission Syntax table:
 - Any new permission tools or syntax?
 
 ### Hook Event Accuracy
-> **SKIP** — Hook analysis is excluded from this workflow. Hooks are maintained in the [claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) repo. Only verify that the hooks redirect section in the report still points to the correct repo URL.
+> **SKIP** — Hook analysis is excluded from this workflow. Hooks are maintained in the [claude-code-hooks](https://github.com/Barre-Beavogui/claude-code-hooks) repo. Only verify that the hooks redirect section in the report still points to the correct repo URL.
 
 ### MCP Setting Accuracy
 Verify MCP Settings:
